@@ -22,7 +22,7 @@ function App() {
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
-          <LinkContainer to="/offer">
+            <LinkContainer to="/offer">
               <Nav.Link>Ponuka</Nav.Link>
             </LinkContainer>
           </Nav.Item>

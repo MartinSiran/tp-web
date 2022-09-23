@@ -1,6 +1,6 @@
 import Alert from 'react-bootstrap/Alert';
 
-const Assignment = () => {
+const Offer = () => {
   return (
     <div className="App">
       <Alert variant='warning'>
@@ -10,4 +10,4 @@ const Assignment = () => {
   );
 }
 
-export default Assignment;
+export default Offer;
