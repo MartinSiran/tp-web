@@ -1,12 +1,10 @@
-import Alert from 'react-bootstrap/Alert';
+import Container from 'react-bootstrap/Container';
 
 const Home = () => {
   return (
-    <div className="App">
-      <Alert variant='primary'>
-          Home
-      </Alert>
-    </div>
+    <Container>
+      <h1 class="mt-3">Decentralizovaná aplikácia pre vedecké projekty</h1>
+    </Container>
   );
 }
 
