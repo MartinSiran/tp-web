@@ -1,16 +1,17 @@
 {
-  "files": {
-    "main.css": "/tp-web/static/css/main.2b0f4a6c.css",
-    "main.js": "/tp-web/static/js/main.9d71ebbc.js",
-    "static/js/787.2e575a85.chunk.js": "/tp-web/static/js/787.2e575a85.chunk.js",
-    "static/media/TP1_Ponuka.pdf": "/tp-web/static/media/TP1_Ponuka.a4eeaf41b6e8d1f98d4b.pdf",
-    "index.html": "/tp-web/index.html",
-    "main.2b0f4a6c.css.map": "/tp-web/static/css/main.2b0f4a6c.css.map",
-    "main.9d71ebbc.js.map": "/tp-web/static/js/main.9d71ebbc.js.map",
-    "787.2e575a85.chunk.js.map": "/tp-web/static/js/787.2e575a85.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.2b0f4a6c.css",
-    "static/js/main.9d71ebbc.js"
-  ]
+  "main.css": "/tp-web/static/css/main.9458af58.chunk.css",
+  "main.js": "/tp-web/static/js/main.59c2c3a3.chunk.js",
+  "main.js.map": "/tp-web/static/js/main.59c2c3a3.chunk.js.map",
+  "static/js/1.3da4e6a8.chunk.js": "/tp-web/static/js/1.3da4e6a8.chunk.js",
+  "static/js/1.3da4e6a8.chunk.js.map": "/tp-web/static/js/1.3da4e6a8.chunk.js.map",
+  "static/css/2.83eb21f5.chunk.css": "/tp-web/static/css/2.83eb21f5.chunk.css",
+  "static/js/2.8b9abcbc.chunk.js": "/tp-web/static/js/2.8b9abcbc.chunk.js",
+  "static/js/2.8b9abcbc.chunk.js.map": "/tp-web/static/js/2.8b9abcbc.chunk.js.map",
+  "runtime~main.js": "/tp-web/static/js/runtime~main.55b5a9ba.js",
+  "runtime~main.js.map": "/tp-web/static/js/runtime~main.55b5a9ba.js.map",
+  "static/css/main.9458af58.chunk.css.map": "/tp-web/static/css/main.9458af58.chunk.css.map",
+  "static/css/2.83eb21f5.chunk.css.map": "/tp-web/static/css/2.83eb21f5.chunk.css.map",
+  "index.html": "/tp-web/index.html",
+  "precache-manifest.4889d191cea37c655cdaa021b5442e7a.js": "/tp-web/precache-manifest.4889d191cea37c655cdaa021b5442e7a.js",
+  "service-worker.js": "/tp-web/service-worker.js"
 }
