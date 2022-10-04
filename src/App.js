@@ -1,3 +1,4 @@
+import React from "react";
 import { Route, Routes } from "react-router-dom";
 import './App.css';
 import Nav from 'react-bootstrap/Nav';
@@ -10,30 +11,28 @@ import Reports from "./components/Reports";
 function App() {
   return (
     <div className="App">
-      <div>
-        <Nav variant="tabs" defaultActiveKey="/">
-          <Nav.Item>
-            <LinkContainer to="/">
-              <Nav.Link>Domov</Nav.Link>
-            </LinkContainer>
-          </Nav.Item>
-          <Nav.Item>
-            <LinkContainer to="/assignment">
-              <Nav.Link>Zadanie</Nav.Link>
-            </LinkContainer>
-          </Nav.Item>
-          <Nav.Item>
-            <LinkContainer to="/offer">
-              <Nav.Link>Ponuka</Nav.Link>
-            </LinkContainer>
-          </Nav.Item>
-          <Nav.Item>
-            <LinkContainer to="/reports">
-              <Nav.Link>Zápisnice</Nav.Link>
-            </LinkContainer>
-          </Nav.Item>
-        </Nav>
-      </div>
+      <Nav variant="tabs" justify="true" defaultActiveKey="/">
+        <Nav.Item>
+          <LinkContainer to="/">
+            <Nav.Link>Domov</Nav.Link>
+          </LinkContainer>
+        </Nav.Item>
+        <Nav.Item>
+          <LinkContainer to="/assignment">
+            <Nav.Link>Zadanie</Nav.Link>
+          </LinkContainer>
+        </Nav.Item>
+        <Nav.Item>
+          <LinkContainer to="/offer">
+            <Nav.Link>Ponuka</Nav.Link>
+          </LinkContainer>
+        </Nav.Item>
+        <Nav.Item>
+          <LinkContainer to="/reports">
+            <Nav.Link>Zápisnice</Nav.Link>
+          </LinkContainer>
+        </Nav.Item>
+      </Nav>
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route path="/assignment" element={<Assignment />} />
