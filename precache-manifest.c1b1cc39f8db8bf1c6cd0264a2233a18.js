@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0794373c9b4a67db0d82",
+    "revision": "2a2f4092fec71c787572",
     "url": "/tp-web/static/css/main.b2b90798.chunk.css"
   },
   {
-    "revision": "0794373c9b4a67db0d82",
-    "url": "/tp-web/static/js/main.0794373c.chunk.js"
+    "revision": "2a2f4092fec71c787572",
+    "url": "/tp-web/static/js/main.2a2f4092.chunk.js"
   },
   {
     "revision": "cc79fa3910fc97852656",
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/tp-web/static/media/Zapisnica_28_09_2022.2adf0f05.pdf"
   },
   {
-    "revision": "1faeef36f7040a710fb0e2321c051983",
-    "url": "/tp-web/static/media/Zapisnica_5_10_2022.1faeef36.pdf"
+    "revision": "3b45d7a33ab82972de772422524924bd",
+    "url": "/tp-web/static/media/Zapisnica_5_10_2022.3b45d7a3.pdf"
   },
   {
-    "revision": "2a69b54c30396c97e2ecc0a4f4e67859",
+    "revision": "ead487c62c974a0f9ce6865d48d2f704",
     "url": "/tp-web/index.html"
   }
 ];
