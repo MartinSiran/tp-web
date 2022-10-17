@@ -1,7 +1,7 @@
 {
   "main.css": "/tp-web/static/css/main.b2b90798.chunk.css",
-  "main.js": "/tp-web/static/js/main.76ff112f.chunk.js",
-  "main.js.map": "/tp-web/static/js/main.76ff112f.chunk.js.map",
+  "main.js": "/tp-web/static/js/main.1f8b16f5.chunk.js",
+  "main.js.map": "/tp-web/static/js/main.1f8b16f5.chunk.js.map",
   "static/js/1.dca74a03.chunk.js": "/tp-web/static/js/1.dca74a03.chunk.js",
   "static/js/1.dca74a03.chunk.js.map": "/tp-web/static/js/1.dca74a03.chunk.js.map",
   "static/css/2.d06ee332.chunk.css": "/tp-web/static/css/2.d06ee332.chunk.css",
@@ -9,12 +9,12 @@
   "static/js/2.2fc662bd.chunk.js.map": "/tp-web/static/js/2.2fc662bd.chunk.js.map",
   "runtime~main.js": "/tp-web/static/js/runtime~main.90554155.js",
   "runtime~main.js.map": "/tp-web/static/js/runtime~main.90554155.js.map",
-  "static/media/1Zapisnica_5_10_2022.pdf": "/tp-web/static/media/1Zapisnica_5_10_2022.3b45d7a3.pdf",
-  "static/media/2Zapisnica_28_09_2022.pdf": "/tp-web/static/media/2Zapisnica_28_09_2022.2adf0f05.pdf",
+  "static/media/1Zapisnica_28_09_2022.pdf": "/tp-web/static/media/1Zapisnica_28_09_2022.2adf0f05.pdf",
+  "static/media/2Zapisnica_5_10_2022.pdf": "/tp-web/static/media/2Zapisnica_5_10_2022.3b45d7a3.pdf",
   "static/media/3Zapisnica_12_10_2022.pdf": "/tp-web/static/media/3Zapisnica_12_10_2022.18343c4f.pdf",
-  "static/css/main.b2b90798.chunk.css.map": "/tp-web/static/css/main.b2b90798.chunk.css.map",
   "static/css/2.d06ee332.chunk.css.map": "/tp-web/static/css/2.d06ee332.chunk.css.map",
+  "static/css/main.b2b90798.chunk.css.map": "/tp-web/static/css/main.b2b90798.chunk.css.map",
   "index.html": "/tp-web/index.html",
-  "precache-manifest.d0458efaae75a386f33b8b67266d0374.js": "/tp-web/precache-manifest.d0458efaae75a386f33b8b67266d0374.js",
+  "precache-manifest.49f9039afa35aa5910e0e9d9a7e579f6.js": "/tp-web/precache-manifest.49f9039afa35aa5910e0e9d9a7e579f6.js",
   "service-worker.js": "/tp-web/service-worker.js"
 }
