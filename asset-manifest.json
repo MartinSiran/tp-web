@@ -1,7 +1,7 @@
 {
   "main.css": "/tp-web/static/css/main.b2b90798.chunk.css",
-  "main.js": "/tp-web/static/js/main.19b5b0fe.chunk.js",
-  "main.js.map": "/tp-web/static/js/main.19b5b0fe.chunk.js.map",
+  "main.js": "/tp-web/static/js/main.a0427040.chunk.js",
+  "main.js.map": "/tp-web/static/js/main.a0427040.chunk.js.map",
   "static/js/1.f643efff.chunk.js": "/tp-web/static/js/1.f643efff.chunk.js",
   "static/js/1.f643efff.chunk.js.map": "/tp-web/static/js/1.f643efff.chunk.js.map",
   "static/css/2.0af7d7db.chunk.css": "/tp-web/static/css/2.0af7d7db.chunk.css",
@@ -19,9 +19,9 @@
   "static/media/08Zapisnica_23_11_2022.pdf": "/tp-web/static/media/08Zapisnica_23_11_2022.8e44c4c3.pdf",
   "static/media/09Zapisnica_30_11_2022.pdf": "/tp-web/static/media/09Zapisnica_30_11_2022.39110db0.pdf",
   "static/media/10Zapisnica_7_12_2022.pdf": "/tp-web/static/media/10Zapisnica_7_12_2022.474c68d7.pdf",
-  "static/css/main.b2b90798.chunk.css.map": "/tp-web/static/css/main.b2b90798.chunk.css.map",
   "static/css/2.0af7d7db.chunk.css.map": "/tp-web/static/css/2.0af7d7db.chunk.css.map",
+  "static/css/main.b2b90798.chunk.css.map": "/tp-web/static/css/main.b2b90798.chunk.css.map",
   "index.html": "/tp-web/index.html",
-  "precache-manifest.204a7b148d4f0c7e97271ae0da49e14b.js": "/tp-web/precache-manifest.204a7b148d4f0c7e97271ae0da49e14b.js",
+  "precache-manifest.160cc7e2605fa9c9e034f27d0c9dcc2a.js": "/tp-web/precache-manifest.160cc7e2605fa9c9e034f27d0c9dcc2a.js",
   "service-worker.js": "/tp-web/service-worker.js"
 }
