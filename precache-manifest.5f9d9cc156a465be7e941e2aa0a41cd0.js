@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6587dd8a4fc545d0727a",
+    "revision": "ebd529f875f68608d0e2",
     "url": "/tp-web/static/css/main.b2b90798.chunk.css"
   },
   {
-    "revision": "6587dd8a4fc545d0727a",
-    "url": "/tp-web/static/js/main.6587dd8a.chunk.js"
+    "revision": "ebd529f875f68608d0e2",
+    "url": "/tp-web/static/js/main.ebd529f8.chunk.js"
   },
   {
     "revision": "2d281c672a566deb1a05",
@@ -64,7 +64,19 @@ self.__precacheManifest = [
     "url": "/tp-web/static/media/10Zapisnica_7_12_2022.474c68d7.pdf"
   },
   {
-    "revision": "e2442d5b00451d6063c27245d2565b37",
+    "revision": "4bfdd05c282a1f5eda912926db766af3",
+    "url": "/tp-web/static/media/01Zapisnica14_02_2023.4bfdd05c.pdf"
+  },
+  {
+    "revision": "acae2047e1c93182379589b5c1de2bc0",
+    "url": "/tp-web/static/media/02Zapisnica21_02_2023.acae2047.pdf"
+  },
+  {
+    "revision": "3ccb2c7f969a987f7e1704deaf0ab199",
+    "url": "/tp-web/static/media/03Zapisnica28_02_2023.3ccb2c7f.pdf"
+  },
+  {
+    "revision": "dd405284121a08aebce51178c30df572",
     "url": "/tp-web/index.html"
   }
 ];
