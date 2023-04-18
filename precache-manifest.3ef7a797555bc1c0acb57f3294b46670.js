@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "23fc11373c8e8373bf81",
+    "revision": "b00300195169c36fd534",
     "url": "/tp-web/static/css/main.b2b90798.chunk.css"
   },
   {
-    "revision": "23fc11373c8e8373bf81",
-    "url": "/tp-web/static/js/main.23fc1137.chunk.js"
+    "revision": "b00300195169c36fd534",
+    "url": "/tp-web/static/js/main.b0030019.chunk.js"
   },
   {
     "revision": "cf6b6bf545d5975ec723",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/tp-web/static/media/09Zapisnica_11_04_2023.3e40b564.pdf"
   },
   {
-    "revision": "3c6dd1d8e45d8ce0d9e1e0cf66a2f373",
+    "revision": "14f488c50b096a24acde922ad2a9e065",
     "url": "/tp-web/index.html"
   }
 ];
