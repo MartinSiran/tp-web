@@ -19,7 +19,7 @@ const Reports = () => {
   });
 
   return (
-    <Container>
+    <Container className="mb-3">
       <h1 class="mt-3">Zápisnice</h1>
       <h2 className="mt-2">Zimný semester</h2>
         {files.map((file, index) => (
