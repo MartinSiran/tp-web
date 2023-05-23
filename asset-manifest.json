@@ -1,7 +1,7 @@
 {
   "main.css": "/tp-web/static/css/main.b2b90798.chunk.css",
-  "main.js": "/tp-web/static/js/main.3ada223a.chunk.js",
-  "main.js.map": "/tp-web/static/js/main.3ada223a.chunk.js.map",
+  "main.js": "/tp-web/static/js/main.cb603cf0.chunk.js",
+  "main.js.map": "/tp-web/static/js/main.cb603cf0.chunk.js.map",
   "static/js/1.462fada3.chunk.js": "/tp-web/static/js/1.462fada3.chunk.js",
   "static/js/1.462fada3.chunk.js.map": "/tp-web/static/js/1.462fada3.chunk.js.map",
   "static/css/2.1309897d.chunk.css": "/tp-web/static/css/2.1309897d.chunk.css",
@@ -29,11 +29,11 @@
   "static/media/08Zapisnica_04_04_2023.pdf": "/tp-web/static/media/08Zapisnica_04_04_2023.c48d870c.pdf",
   "static/media/09Zapisnica_11_04_2023.pdf": "/tp-web/static/media/09Zapisnica_11_04_2023.3e40b564.pdf",
   "static/media/10Zapisnica_18_04_2023.pdf": "/tp-web/static/media/10Zapisnica_18_04_2023.2ee1d52e.pdf",
-  "static/media/11Zapisnica_25_04_2023.pdf": "/tp-web/static/media/11Zapisnica_25_04_2023.c76588dc.pdf",
-  "static/media/12Zapisnica_02_05_2023.pdf": "/tp-web/static/media/12Zapisnica_02_05_2023.6a2fce8a.pdf",
+  "static/media/11Zapisnica_25_04_2023.pdf": "/tp-web/static/media/11Zapisnica_25_04_2023.3f00a244.pdf",
+  "static/media/12Zapisnica_02_05_2023.pdf": "/tp-web/static/media/12Zapisnica_02_05_2023.b6a94993.pdf",
   "static/css/main.b2b90798.chunk.css.map": "/tp-web/static/css/main.b2b90798.chunk.css.map",
   "static/css/2.1309897d.chunk.css.map": "/tp-web/static/css/2.1309897d.chunk.css.map",
   "index.html": "/tp-web/index.html",
-  "precache-manifest.ca3aecf10bb223434ff5188246606d25.js": "/tp-web/precache-manifest.ca3aecf10bb223434ff5188246606d25.js",
+  "precache-manifest.2f995c6f3808f24cb34afd61302e2aa8.js": "/tp-web/precache-manifest.2f995c6f3808f24cb34afd61302e2aa8.js",
   "service-worker.js": "/tp-web/service-worker.js"
 }
